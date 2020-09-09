@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426512061124",
+    "firebase_url": "https://myplan-react-native.firebaseio.com",
+    "project_id": "myplan-react-native",
+    "storage_bucket": "myplan-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426512061124:android:40b37e2fb231946b83af91",
+        "android_client_info": {
+          "package_name": "com.myplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426512061124-7ramn4vmnhni7ge8ipco3pe9q63n8c4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myplan",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "426512061124-mmmuun3smst8odm8qm77gi0vf2m6ds94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBly-YitIvRJ_t_ryzPLtrRoeyjoJ3rWj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426512061124-mmmuun3smst8odm8qm77gi0vf2m6ds94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
